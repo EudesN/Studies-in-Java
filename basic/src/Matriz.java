@@ -3,7 +3,6 @@ import java.util.Scanner;
 public class Matriz {
     public static void main(String[] args){
         Scanner input = new Scanner(System.in);
-
         double[][] vetor = new double[3][3];
 
         for(int i = 0; i < vetor.length; i++){
