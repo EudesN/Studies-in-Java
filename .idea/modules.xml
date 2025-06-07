@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Objeto/Construtores/Construtores.iml" filepath="$PROJECT_DIR$/Objeto/Construtores/Construtores.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Objeto/CriarObjeto/CriarObjeto.iml" filepath="$PROJECT_DIR$/Objeto/CriarObjeto/CriarObjeto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Objeto/Exercicios/Exercicios.iml" filepath="$PROJECT_DIR$/Objeto/Exercicios/Exercicios.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java.iml" filepath="$PROJECT_DIR$/.idea/Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Problemas/Problemas.iml" filepath="$PROJECT_DIR$/Problemas/Problemas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/basic/basic.iml" filepath="$PROJECT_DIR$/basic/basic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Objeto/varGlobal_e_Local/varGlobal_e_Local.iml" filepath="$PROJECT_DIR$/Objeto/varGlobal_e_Local/varGlobal_e_Local.iml" />
+    </modules>
+  </component>
+</project>

@@ -7,6 +7,7 @@ public class TestCalculadora1 {
     public static void main(String[] args) {
         int opera, cont = 0;
         double num1 = 0, num2 = 0;
+
         Scanner scanner = new Scanner(System.in);
         Calculadora calculadora = new Calculadora();
 
@@ -54,10 +55,10 @@ public class TestCalculadora1 {
                     System.out.println("Encerrando...");
                     break;
                 case 6:
-                    System.out.println("Informe o primeiro número: ");
+                    System.out.println("Informe o novo primeiro número: ");
                     num1 = scanner.nextDouble();
 
-                    System.out.println("Informe o segundo número: ");
+                    System.out.println("Informe o novo segundo número: ");
                     num2 = scanner.nextDouble();
                     break;
                 default:
