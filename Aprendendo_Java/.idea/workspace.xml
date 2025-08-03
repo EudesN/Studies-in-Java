@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e7fc8a74-5e46-40fb-b3b5-89dfe9995018" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Problemas/src/DescontoInteligente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LocadoraPOO/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LocadoraPOO/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LocadoraPOO/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LocadoraPOO/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LocadoraPOO/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LocadoraPOO/LocadoraPOO.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LocadoraPOO/src/Aluguel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LocadoraPOO/src/Caminhao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LocadoraPOO/src/Carro.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LocadoraPOO/src/Cliente.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LocadoraPOO/src/ClienteJaCadastrado.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LocadoraPOO/src/ClienteNaoCadastrado.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LocadoraPOO/src/Locadora.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LocadoraPOO/src/MinhaLocadora.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LocadoraPOO/src/Moto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LocadoraPOO/src/Onibus.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LocadoraPOO/src/TesteLocadoraResumido.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LocadoraPOO/src/Veiculo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LocadoraPOO/src/VeiculoAlugado.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LocadoraPOO/src/VeiculoJaCadastrado.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LocadoraPOO/src/VeiculoNaoAlugado.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LocadoraPOO/src/VeiculoNaoCadastrado.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Objeto/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Objeto/Construtores/Construtores.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Objeto/Construtores/Contrutores/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Objeto/Construtores/Contrutores/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Objeto/Construtores/Contrutores/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Objeto/Construtores/Contrutores/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Objeto/Construtores/Contrutores/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Objeto/Construtores/Contrutores/Contrutores.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Objeto/Construtores/Contrutores/src/Exemplo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Objeto/Construtores/Contrutores/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Objeto/CriarObjeto/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Objeto/CriarObjeto/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Objeto/CriarObjeto/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Objeto/CriarObjeto/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Objeto/CriarObjeto/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Objeto/CriarObjeto/CriarObjeto.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Objeto/CriarObjeto/Objeto.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Objeto/CriarObjeto/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Objeto/CriarObjeto/src/TV.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Objeto/Exercicios/Exercicio1/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Objeto/Exercicios/Exercicio1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Objeto/Exercicios/Exercicio1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Objeto/Exercicios/Exercicio1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Objeto/Exercicios/Exercicio1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Objeto/Exercicios/Exercicio1/Exercicio1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Objeto/Exercicios/Exercicio1/src/main/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Objeto/Exercicios/Exercicio1/src/objetos/Objeto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Objeto/varGlobal_e_Local/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Objeto/varGlobal_e_Local/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Objeto/varGlobal_e_Local/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Objeto/varGlobal_e_Local/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Objeto/varGlobal_e_Local/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Objeto/varGlobal_e_Local/src/dominio/Estudante.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Objeto/varGlobal_e_Local/src/dominio/Professor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Objeto/varGlobal_e_Local/src/test/EstudanteTest1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Objeto/varGlobal_e_Local/src/test/ProfessorTest1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Objeto/varGlobal_e_Local/varGlobal_e_Local.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problemas/src/AnoBissexto.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Problemas/src/AnoBissexto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problemas/src/franciscoEudesAndradeNazario/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problemas/src/franciscoEudesAndradeNazario/.idea/Trabalho1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problemas/src/franciscoEudesAndradeNazario/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problemas/src/franciscoEudesAndradeNazario/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problemas/src/franciscoEudesAndradeNazario/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problemas/src/franciscoEudesAndradeNazario/banco/Banco.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problemas/src/franciscoEudesAndradeNazario/banco/Conta.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problemas/src/franciscoEudesAndradeNazario/banco/Extrato.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problemas/src/franciscoEudesAndradeNazario/banco/Operacao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problemas/src/franciscoEudesAndradeNazario/banco/Pessoa.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problemas/src/franciscoEudesAndradeNazario/banco/TesteBanco.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problemas/src/franciscoEudesAndradeNazario/banco/TesteConta.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problemas/src/franciscoEudesAndradeNazario/banco/UsoDeConta.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problemas/src/franciscoEudesAndradeNazario/banco/UsoDeDatas.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problemas/src/franciscoEudesAndradeNazario/estoque/Estoque.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problemas/src/franciscoEudesAndradeNazario/estoque/Fornecedor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problemas/src/franciscoEudesAndradeNazario/estoque/Produto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problemas/src/franciscoEudesAndradeNazario/estoque/UsoEstoque.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problemas/src/franciscoEudesAndradeNazario/out/production/Trabalho1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problemas/src/franciscoEudesAndradeNazario/out/production/Trabalho1/.idea/Trabalho1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problemas/src/franciscoEudesAndradeNazario/out/production/Trabalho1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problemas/src/franciscoEudesAndradeNazario/out/production/Trabalho1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problemas/src/franciscoEudesAndradeNazario/out/production/Trabalho1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basic/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../basic/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;EudesN&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/EudesN/Studies-in-Java.git&quot;,
+    &quot;accountId&quot;: &quot;0a041a01-e175-424f-ad9e-46c424a55d74&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2tb17tOYpNEJbMGS7y9M42VD2X7" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.EstudanteTest02.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EstudanteTest1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Programming/Java/Aprendendo_Java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e7fc8a74-5e46-40fb-b3b5-89dfe9995018" name="Changes" comment="" />
+      <created>1740605795847</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1740605795847</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/TV.java</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

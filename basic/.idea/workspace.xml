@@ -5,153 +5,77 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c1e82499-aca1-4d78-bf38-0570023ff2cc" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../Problemas/src/franciscoEudes/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Problemas/src/franciscoEudes/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Problemas/src/franciscoEudes/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Problemas/src/franciscoEudes/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Problemas/src/franciscoEudes/banco/main/aplicacao/Conta.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Problemas/src/franciscoEudes/banco/main/aplicacao/Pessoa.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Problemas/src/franciscoEudes/banco/test/aplicacao/UsoDeConta.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Problemas/src/franciscoEudes/banco/test/aplicacao/UsoDeContaTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Problemas/src/franciscoEudes/franciscoEudes.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Problemas/src/franciscoEudes/out/production/franciscoEudes/franciscoEudes/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Problemas/src/franciscoEudes/out/production/franciscoEudes/franciscoEudes/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Problemas/src/franciscoEudes/out/production/franciscoEudes/franciscoEudes/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Problemas/src/franciscoEudes/out/production/franciscoEudes/franciscoEudes/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Problemas/src/franciscoEudes/out/production/franciscoEudes/franciscoEudes/banco/main/aplicacao/Conta.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Problemas/src/franciscoEudes/out/production/franciscoEudes/franciscoEudes/banco/main/aplicacao/Pessoa.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Problemas/src/franciscoEudes/out/production/franciscoEudes/franciscoEudes/banco/test/aplicacao/UsoDeConta.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Problemas/src/franciscoEudes/out/production/franciscoEudes/franciscoEudes/banco/test/aplicacao/UsoDeContaTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Problemas/src/franciscoEudes/out/production/franciscoEudes/franciscoEudes/franciscoEudes.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Problemas/src/franciscoEudes2/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Problemas/src/franciscoEudes2/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Problemas/src/franciscoEudes2/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Problemas/src/franciscoEudes2/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Problemas/src/franciscoEudes2/FranciscoEudes2.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Problemas/src/franciscoEudes2/banco/main/Banco.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Problemas/src/franciscoEudes2/banco/main/Conta.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Problemas/src/franciscoEudes2/banco/main/Extrato.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Problemas/src/franciscoEudes2/banco/main/Operacao.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Problemas/src/franciscoEudes2/banco/main/Pessoa.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Problemas/src/franciscoEudes2/banco/test/TesteBanco.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Problemas/src/franciscoEudes2/banco/test/TesteConta.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Problemas/src/franciscoEudes2/banco/test/UsoDeConta.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Problemas/src/franciscoEudes2/banco/test/UsoDeDatas.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Problemas/src/franciscoEudes2/out/production/pedroSantosNeto/pedroSantosNeto/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Problemas/src/franciscoEudes2/out/production/pedroSantosNeto/pedroSantosNeto/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Problemas/src/franciscoEudes2/out/production/pedroSantosNeto/pedroSantosNeto/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Problemas/src/franciscoEudes2/out/production/pedroSantosNeto/pedroSantosNeto/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Problemas/src/franciscoEudes2/out/production/pedroSantosNeto/pedroSantosNeto/banco/main/Banco.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Problemas/src/franciscoEudes2/out/production/pedroSantosNeto/pedroSantosNeto/banco/main/Conta.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Problemas/src/franciscoEudes2/out/production/pedroSantosNeto/pedroSantosNeto/banco/main/Extrato.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Problemas/src/franciscoEudes2/out/production/pedroSantosNeto/pedroSantosNeto/banco/main/Operacao.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Problemas/src/franciscoEudes2/out/production/pedroSantosNeto/pedroSantosNeto/banco/main/Pessoa.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Problemas/src/franciscoEudes2/out/production/pedroSantosNeto/pedroSantosNeto/banco/test/TesteBanco.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Problemas/src/franciscoEudes2/out/production/pedroSantosNeto/pedroSantosNeto/banco/test/TesteConta.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Problemas/src/franciscoEudes2/out/production/pedroSantosNeto/pedroSantosNeto/banco/test/UsoDeConta.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Problemas/src/franciscoEudes2/out/production/pedroSantosNeto/pedroSantosNeto/banco/test/UsoDeDatas.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Problemas/src/franciscoEudes2/out/production/pedroSantosNeto/pedroSantosNeto/pedroSantosNeto.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Problemas/src/franciscoEudesAndradeNazario/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../Problemas/src/franciscoEudesAndradeNazario/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Problemas/src/franciscoEudesAndradeNazario/.idea/Trabalho1.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Problemas/src/franciscoEudesAndradeNazario/out/production/Trabalho1/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../Problemas/src/franciscoEudesAndradeNazario/out/production/Trabalho1/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Problemas/src/franciscoEudesAndradeNazario/out/production/Trabalho1/.idea/Trabalho1.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Problemas/src/franciscoEudesAndradeNazario/out/production/Trabalho1/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Problemas/src/franciscoEudesAndradeNazario/out/production/Trabalho1/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Problemas/src/franciscoEudesAndradeNazario/out/production/Trabalho1/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Problemas/src/franciscoEudesAndradeNazario/out/production/Trabalho1/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Problemas/src/franciscoEudesAndradeNazario/out/production/Trabalho1/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Problemas/src/franciscoEudesAndradeNazario/out/production/Trabalho1/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Problemas/src/franciscoEudesAndradeNazario/out/production/Trabalho1/banco/Banco.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Problemas/src/franciscoEudesAndradeNazario/out/production/Trabalho1/banco/Conta.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Problemas/src/franciscoEudesAndradeNazario/out/production/Trabalho1/banco/Extrato.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Problemas/src/franciscoEudesAndradeNazario/out/production/Trabalho1/banco/Operacao.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Problemas/src/franciscoEudesAndradeNazario/out/production/Trabalho1/banco/Pessoa.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Problemas/src/franciscoEudesAndradeNazario/out/production/Trabalho1/banco/TesteBanco.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Problemas/src/franciscoEudesAndradeNazario/out/production/Trabalho1/banco/TesteConta.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Problemas/src/franciscoEudesAndradeNazario/out/production/Trabalho1/banco/UsoDeConta.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Problemas/src/franciscoEudesAndradeNazario/out/production/Trabalho1/banco/UsoDeDatas.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Problemas/src/franciscoEudesAndradeNazario/out/production/Trabalho1/estoque/Estoque.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Problemas/src/franciscoEudesAndradeNazario/out/production/Trabalho1/estoque/Fornecedor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Problemas/src/franciscoEudesAndradeNazario/out/production/Trabalho1/estoque/Produto.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Problemas/src/franciscoEudesAndradeNazario/out/production/Trabalho1/estoque/UsoEstoque.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Estrutura_de_Dados/test/testVetor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Estrutura_de_Dados/vetorED.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Metodo/test/TestCalculadora1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Metodo/test/TestCalculadora1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/out/production/basic/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/out/production/basic/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/out/production/basic/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/out/production/basic/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/out/production/basic/Array1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/out/production/basic/Array2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/out/production/basic/Break_Continue.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/out/production/basic/BubbleSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/out/production/basic/Casting.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/out/production/basic/DadosPrimitivos.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/out/production/basic/DoWhile.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/out/production/basic/Estrutura_de_Dados/test/testVetor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/out/production/basic/Estrutura_de_Dados/vetorED.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/out/production/basic/For.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/out/production/basic/HelloWorld.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/out/production/basic/IncrementoDecremento.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/out/production/basic/IntroStrings.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/out/production/basic/Matriz.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/out/production/basic/Media.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/out/production/basic/Metodo/dominio/Calculadora.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/out/production/basic/Metodo/dominio/Estudante.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/out/production/basic/Metodo/dominio/ImpressoraEstudante.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/out/production/basic/Metodo/dominio/OrdenacaoDecrescente.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/out/production/basic/Metodo/dominio/Retangulo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/out/production/basic/Metodo/dominio/Retangulo2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/out/production/basic/Metodo/test/Estudantetest1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/out/production/basic/Metodo/test/Metodo1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/out/production/basic/Metodo/test/MetodoVetor2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/out/production/basic/Metodo/test/TestCalculadora1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/out/production/basic/Metodo2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/out/production/basic/MetodoVetor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/out/production/basic/OperadorCondicional.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/out/production/basic/OperadorResto.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/out/production/basic/OrientacaoObjetos.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/out/production/basic/UnixTime.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/out/production/basic/Variaveis.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/out/production/basic/VariavelConstante.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/out/production/basic/While.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/out/production/basic/basic.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/out/production/basic/vetor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LocadoraPOO/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LocadoraPOO/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LocadoraPOO/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LocadoraPOO/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LocadoraPOO/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LocadoraPOO/LocadoraPOO.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LocadoraPOO/src/Aluguel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LocadoraPOO/src/Caminhao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LocadoraPOO/src/Carro.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LocadoraPOO/src/Cliente.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LocadoraPOO/src/ClienteJaCadastrado.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LocadoraPOO/src/ClienteNaoCadastrado.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LocadoraPOO/src/Locadora.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LocadoraPOO/src/MinhaLocadora.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LocadoraPOO/src/Moto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LocadoraPOO/src/Onibus.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LocadoraPOO/src/TesteLocadoraResumido.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LocadoraPOO/src/Veiculo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LocadoraPOO/src/VeiculoAlugado.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LocadoraPOO/src/VeiculoJaCadastrado.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LocadoraPOO/src/VeiculoNaoAlugado.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LocadoraPOO/src/VeiculoNaoCadastrado.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "EudesN"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;EudesN&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/EudesN/Studies-in-Java.git",
-    "accountId": "0a041a01-e175-424f-ad9e-46c424a55d74"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/EudesN/Studies-in-Java.git&quot;,
+    &quot;accountId&quot;: &quot;0a041a01-e175-424f-ad9e-46c424a55d74&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2yBwq4QfmPLeKqiOeRUxBIGEiOI" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Programming/Java/basic"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Programming/Java/basic&quot;
   }
-}]]></component>
+}</component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="c1e82499-aca1-4d78-bf38-0570023ff2cc" name="Changes" comment="" />
